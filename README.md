@@ -31,7 +31,7 @@ Fine-tuned GPT-OSS 20B for financial question-answering. 20,000 Investopedia-der
 
 ## Team
 
-Souvik Rajak, Priyanshu Tomar, Roshan G, Vivek Rajput
+Sourav Rajak, Priyanshu Tomar, Roshan G, Vivek Rajput
 
 ## Acknowledgments
 
