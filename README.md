@@ -44,6 +44,21 @@ Fine-tuned GPT-OSS 120B on human-written instruction-response pairs. 10,000 pair
 - **Kaggle:** [souravrajakxcd/adaption-no-robots-instructions-weights](https://www.kaggle.com/datasets/souravrajakxcd/adaption-no-robots-instructions-weights)
 - **Demo:** [morningstarxcdcode/adaption-no-robots-instructions-demo](https://huggingface.co/spaces/morningstarxcdcode/adaption-no-robots-instructions-demo)
 
+## Translation: OPUS 100 Translation SFT 31B
+
+Fine-tuned Gemma 4 31B on OPUS 100-language parallel corpora. 20,000 translation pairs across 100 languages.
+
+| Metric | Base | Adapted | Change |
+|--------|------|---------|--------|
+| Quality | 2.0 | 5.9 | +195.0% |
+| Grade | E | C | — |
+| Win Rate | 46% | 54% | +17.4% |
+
+- **HF Model:** [morningstarxcdcode/adaption-opus-100-translation-model](https://huggingface.co/morningstarxcdcode/adaption-opus-100-translation-model)
+- **HF Dataset:** [morningstarxcdcode/adaption-opus-100-translation](https://huggingface.co/datasets/morningstarxcdcode/adaption-opus-100-translation)
+- **Kaggle:** [souravrajakxcd/adaption-opus-100-translation-weights](https://www.kaggle.com/datasets/souravrajakxcd/adaption-opus-100-translation-weights)
+- **Demo:** [morningstarxcdcode/adaption-opus-100-translation-demo](https://huggingface.co/spaces/morningstarxcdcode/adaption-opus-100-translation-demo)
+
 ## Team
 
 Sourav Rajak, Priyanshu Tomar, Roshan G, Vivek Rajput
