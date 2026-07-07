@@ -26,6 +26,7 @@ Fine-tuned GPT-OSS 20B for financial question-answering. 20,000 Investopedia-der
 | Quality Score | 6.0 | 8.6 | +43.3% |
 
 - **HF Model:** [morningstarxcdcode/adaption-finance-qa-sft-20b-model](https://huggingface.co/morningstarxcdcode/adaption-finance-qa-sft-20b-model)
+- **HF Dataset:** [morningstarxcdcode/adaption-investopedia-finance-qa](https://huggingface.co/datasets/morningstarxcdcode/adaption-investopedia-finance-qa)
 - **Kaggle:** [souravrajakxcd/finance-qa-sft-20b-weights](https://www.kaggle.com/datasets/souravrajakxcd/finance-qa-sft-20b-weights)
 - **Demo:** [morningstarxcdcode/adaption-finance-qa-demo](https://huggingface.co/spaces/morningstarxcdcode/adaption-finance-qa-demo)
 
